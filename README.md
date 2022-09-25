@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LeviGould
-- 👀 I’m interested in 3D-Printing, Software development, and working on various automation scripts (Lua, C#, Python)
+- 👀 I’m interested in VR development, 3D-Printing, Software development, and working on various automation scripts
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on interesting projects.
 
